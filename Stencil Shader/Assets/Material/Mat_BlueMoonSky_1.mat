@@ -48,8 +48,8 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Base_Color_1: {r: 0.0443586, g: 0.007843138, b: 0.1254902, a: 0}
-    - _Base_Color_2: {r: 0, g: 0.19108544, b: 0.5372549, a: 0}
+    - _Base_Color_1: {r: 0.007843138, g: 0.098359175, b: 0.1254902, a: 0}
+    - _Base_Color_2: {r: 0, g: 0.4666667, b: 0.62352943, a: 0}
     - _Glitter_Color: {r: 1, g: 1, b: 1, a: 0}
     - _Noise_Scale: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
