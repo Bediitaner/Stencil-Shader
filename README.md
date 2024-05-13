@@ -1,6 +1,5 @@
 Stencil Shader Test Project For Unity.
 
 
-[![Now in Android: 55]          // Title
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://cdn.artstation.com/p/video_sources/001/817/243/movie-005.mp4 "Stencil Shader")    // Video Link
+https://github.com/Bediitaner/Stencil-Shader/assets/51925963/70b838ab-2eef-4c18-a3cc-4b27e49e563c
+
